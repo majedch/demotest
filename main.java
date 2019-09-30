@@ -9,4 +9,8 @@ public class Order {
         System.out.println("Menu 3");
         System.out.println("Choisissez SVP");
     }
+public void displayChoose (int idm) {
+        System.out.println("Vous avez choisie " + idm);
+    }
+}
 
